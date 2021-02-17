@@ -1,0 +1,7 @@
+This is sample implementation for the Factory Design pattern.In this pattern,
+Shape interface is implemented by different classes like Circle ,Rectangle etc.
+Factory class acts as encapsulation to the executor classes and does the logic 
+of object creation for executor.
+
+It helps in avoiding object creation scattered across the programming and brings
+uncertanity to the code.
